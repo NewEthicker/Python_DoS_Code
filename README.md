@@ -4,3 +4,5 @@ This is a Python code that performs a Denial of Service (DoS) attack on a specif
     # pip install requests #
     
     # pip install futures #
+    
+    "the code is intended for educational or informational purposes only and should not be used for any malicious or harmful activities"
