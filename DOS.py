@@ -5,8 +5,8 @@ import concurrent.futures
 
 url = "https://url.com/" # Enter any url here....
 
-num_threads = 400000000000000000 # Number of threads to use
-
+num_threads = 400000000000000000 # Number of threads to use....
+# you can increase or decrease the num_threads, according to your PC specs....
 def make_request(i):
     response = requests.get(url)
 
